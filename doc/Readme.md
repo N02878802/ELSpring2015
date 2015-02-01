@@ -1,5 +1,5 @@
 ### Directory Contents ###
-Currently no work to present in this directory
+* Network settings
 
 ***
 
