@@ -1,6 +1,7 @@
 ###Directory Contents
 
-* Database containing temperature logs
+* temperature.db - Database containing temperature logs
+* exercise3.docx - Document explaining temperature webpage implementation
 
 ***
 
