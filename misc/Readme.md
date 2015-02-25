@@ -1,6 +1,6 @@
 ###Directory Contents
 
-Currently no work to upload
+* Database containing temperature logs
 
 ***
 
